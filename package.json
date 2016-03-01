@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "JSONStream": "vweevers/JSONStream#through2-fix",
-    "pumpify": "~1.3.3"
+    "duplexify": "~3.4.3"
   },
   "devDependencies": {
     "tape": "~4.4.0",
