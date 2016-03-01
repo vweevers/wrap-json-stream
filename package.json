@@ -15,7 +15,7 @@
     "build": "babel -d lib src"
   },
   "dependencies": {
-    "JSONStream": "vweevers/JSONStream#through2",
+    "JSONStream": "vweevers/JSONStream#through2-fix",
     "pumpify": "~1.3.3"
   },
   "devDependencies": {
